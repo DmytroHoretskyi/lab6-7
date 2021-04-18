@@ -1,11 +1,11 @@
  public class Cycle{
-    private int numbersOfGears = 0;
-    private double weight = 0;
-    private double maxWeight = 0;
-    private String producer = "Unknown";
-    private String color = "Unknown";
-    private String maxSpeed = "Unknown";
-    private String type = "Unknown";
+    private int numbersOfGears;
+    private double weight;
+    private double maxWeight;
+    private String producer;
+    private String color;
+    private String maxSpeed;
+    private String type;
 
     private static int yearOfProduction;
 
